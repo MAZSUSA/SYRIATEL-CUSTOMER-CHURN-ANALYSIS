@@ -44,7 +44,7 @@ Three models were compared: Logistic Regression, Decision Trees and Random Fores
 
   - Hyperparameter tuning was performed using GridSearchCV to optimize the Random Forest model.
   Random Forest was the best performing model
-![alt text](<CUSTOMER CHURN RATE-1.png>)
+![alt text](image.png)
 ## Model Evaluation
 ROC curves were used to evaluate and compare the performance of the Logistic Regression and Random Forest models. The Random Forest model demonstrated superior performance by achieving a higher AUC compared to Logistic Regression.
 #### Important features in the data set
