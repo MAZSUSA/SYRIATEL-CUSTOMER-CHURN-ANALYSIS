@@ -1,5 +1,5 @@
 # SYRIATEL CUSTOMER CHURN RATE ANALYSIS
-![alt text](<CUSTOMER CHURN RATE.png>)
+c:\Users\FEMI\Pictures\CUSTOMER CHURN RATE.png
 ## Business Understanding
 Introduction: The project aims to address a critical issue faced by SyriaTel, a telecommunications company, by developing a classifier to predict which customers are likely to stop using their services in the near future. This binary classification problem focuses on identifying patterns that signal customer churn.
 
