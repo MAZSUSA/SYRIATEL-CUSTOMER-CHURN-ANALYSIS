@@ -1,5 +1,5 @@
 # SYRIATEL CUSTOMER CHURN RATE ANALYSIS
-
+![alt text](<CUSTOMER CHURN RATE.png>)
 ## Business Understanding
 Introduction: The project aims to address a critical issue faced by SyriaTel, a telecommunications company, by developing a classifier to predict which customers are likely to stop using their services in the near future. This binary classification problem focuses on identifying patterns that signal customer churn.
 
@@ -43,6 +43,8 @@ Three models were compared: Logistic Regression, Decision Trees and Random Fores
 - The confusion matrix revealed 66 true positives, 564 true negatives, 2 false positives, and 35 false negatives.
 
   - Hyperparameter tuning was performed using GridSearchCV to optimize the Random Forest model.
+  Random Forest was the best performing model
+  ![alt text](image.png)
 ## Model Evaluation
 ROC curves were used to evaluate and compare the performance of the Logistic Regression and Random Forest models. The Random Forest model demonstrated superior performance by achieving a higher AUC compared to Logistic Regression.
 #### Important features in the data set
